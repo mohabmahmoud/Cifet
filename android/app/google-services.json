@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660411038687",
+    "project_id": "cifet-5ccdf",
+    "storage_bucket": "cifet-5ccdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660411038687:android:1f1e98f2e21dc1b319a26a",
+        "android_client_info": {
+          "package_name": "com.cifet.CIFET"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660411038687-f295oultqmum705ossmlhu381pg2k7kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzABX4DO0n97jKB0fEVqoBtcid66XvWkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660411038687-f295oultqmum705ossmlhu381pg2k7kk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
