@@ -84,7 +84,7 @@ class _MyHomePageState extends State<MyHomePage> {
         Duration(seconds: 4),
         () async{
           Helper.HelperInit(context);
-          Helper.Dic=await Helper.getJson();
+         // Helper.Dic=await Helper.getJson();
          await FirebaseMessaging.instance.subscribeToTopic("allDevices");
           Navigator.pushReplacement(context, MaterialPageRoute(builder: (context){
             return Home();

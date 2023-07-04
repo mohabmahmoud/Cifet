@@ -46,7 +46,7 @@ class _PdfsState extends State<Pdfs> {
 
                               Navigator.push(
                                 context,
-                                MaterialPageRoute(builder: (context) => PdfViewer(Snap.data!.docs[0].get("Pdf"))),
+                                MaterialPageRoute(builder: (context) => PdfViewer(value.get("Pdf"))),
                               );
 
 
